@@ -13,6 +13,11 @@ int main()
     
     std::cin.get();
     
+    class test
+    {
+        
+    };
+    
     
     
     
