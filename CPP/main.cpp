@@ -11,7 +11,7 @@ int main()
     int y=0;
     
     
-    
+    std::cin.get();
     
     
     
