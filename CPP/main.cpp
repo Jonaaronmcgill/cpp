@@ -9,12 +9,10 @@ int main()
     
     int x[4] = {1,2,3,4};
     int y=0;
-    while(true)
-    {
-        std::cout << x[y] << '\n';
-        std::cin.get();
-        y++;
-    }
+    
+    
+    
+    
     
     
     
